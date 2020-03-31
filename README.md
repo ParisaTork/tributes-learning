@@ -586,5 +586,110 @@ Gather feedback and iterate on processes:
 - Give and gather feedback.
 - Invest in traveling to have in-person meetings with the team.
 
+#### Challenges faced by remote teams and how Agile can help overcome these issues
+- Timezone issues
+- Communication problems regarding code and requirements
+- Availability and response time for inquires
+- Lack of interaction and rapport
+- Cultural differences
 
+# Stages of an Agile Scrum Workflow
+There are 3 stages to an Agile Scrum Workflow:
+Sprint planning
+Sprint review
+Sprint retrospective
+
+During the sprint there is also a daily meeting, scrum or stand up. They tackle a lot of the drawbacks and challenges that remote workers face.
+
+Sprint Planning:
+The planning stage lays the groundwork for the entire sprint and establishes the sprint goal. By working remotely you can get a handle of what you need to do in the next couple of weeks (depending on the sprint duration) and who you need to work with. Sprint planning can be done remotely using tools like Jira. It should also be done through video calls where all members of the team take part. This type of meeting is highly beneficial for working remotely, offering several touch base and chat opportunities that might not come up naturally. The planning stage brings together all the people working on the project, no matter where they are.
+
+Stand Up or Scrum:
+This is a recurring meeting, happening daily, for up to 15 minutes. During stand up you tell people what you did the day before, what do you plan to do today and if you have any roadblocks. This daily type of communication with the entire team offers opportunities to establish rapport and discuss important matters. From a remote perspective regular meetings, with everybody involved, give a lot of perspectives and build connections as people working individually can easily get boxed in and lose focus of the team.
+
+Sprint Review:
+In this stage the sprint goal set during planning is assessed. The entire team takes part, including the Product owner and the Scrum master. The sprint review is focused on deliverables, on the product increments, on the software itself and the actual work that was done. For remote teams this is an important stage of analysis, discussion of problems, of solutions to those problems, estimations that might have been misleading or other issues that came up in the sprint. The review meeting is very informal, builds rapport, trust and increases the level of collaboration between team members.
+
+Sprint Retrospective:
+While the sprint review focuses on deliverables and software, the sprint retrospective focuses on reflection and improvement in the teams processes and collaboration, on what went well and what went wrong. It covers the team dynamics, how can the workflow improve and what particular things should be changed. The review is all about the product and the retro is all about the processes. The lack of a physical presence can be compensated by these discussions that focus on process and continuous improvement.
+
+#### Preparing for a Remote Position
+- Prepare your work environment 
+- Make availability known
+- Be remote friendly in your management structure - don't be biased towards local or remote, if hybrid
+- Ensuring everyone is in the loop
+- Communication flows through the right channels
+- Tracking progress
+- Making everyone feel included as a team
+- Respecting everyone’s time
+
+#### Remote Communication Skills
+- Always provide context
+- Turn camera on for human connection - try to make eye contact
+- Encourage small talk
+
+#### Multiple Time Zones
+- Be cognizant of employee locations and try to limit multiple time zones
+- Be thoughful of everyone's work/life balance
+- Set expectations
+- Include employees in group emails or messages during off hours but let them know beforehand
+
+#### Helping your team manage stress and anxiety
+- Over communication can be helpful
+- Look for source of anxiety
+- Find root cause of anxiety and figure out solution
+
+#### Things you can do to support yourself
+- Take breaks from watching, reading, or listening to news stories, including social media. Hearing about the pandemic repeatedly can be upsetting.
+- Take care of your body. Take deep breaths, stretch, or meditate. Try to eat healthy, well-balanced meals, exercise regularly, get plenty of sleep, and avoid alcohol and drugs.
+- Make time to unwind. Try to do some other activities you enjoy.
+- Connect with others. Talk with people you trust about your concerns and how you are feeling.
+- Reduce stress in yourself and others.
+- Explore Mindfulness practice that you can do at home, both individually and as a family.
+
+#### Tips for Supporting Your Team Member
+- Be extra communicative
+- Monitor and manage your own anxiety
+- Consider childcare and other personal challenges your people may have while young people are out of school and parents are working at home. Be flexible and aim to be accommodating of special needs.
+- Show your colleagues that you care about them personally, and you are invested in this relationship with them for the long term. Everyone reacts differently to stressful situations. How you respond to an outbreak like the Coronavirus can depend on your background, the things that make you different from other people, and the community you live in.
+- Share the facts about COVID-19 and understanding the actual risk to yourself and people you care about can make an outbreak less stressful.
+
+#### Advice for Going Remote
+- Think about the stepping stones
+- Quickly create teams that are self contained units
+- Look at your technology and processes
+- Centralize and standarize things that are going to scale
+
+#### Scaling Up for the Long Term - Key Points
+
+Move From Centralized to More Distributed Teams:
+Allow smaller teams to innovate.
+
+Centralize and Standardize Some Functions:
+Some functions and practices, like hiring, should most efficiently remain standardized, rather than burden each small team with needing to re-invent the wheel in that area.
+
+Shift mindsets companywide:
+Success with a distributed model may (and often does) start gradually with a single team or initiative. But true agility happens when all lanes merge. As your organization moves forward, encourage everyone to embrace all talent equally for the skills and capabilities they can contribute, location or employment status aside.
+
+Help your workforce be fluid, agile, and adaptive:
+It’s easier to nurture this shift when you have reliable access to who you need, when you need them. Develop an agile workforce that includes both employees and external talent. When teams need to ramp up, allocating and scaling knowledge will be more fluid.
+
+Take a hybrid approach to collaboration and contribution:
+Adaptive companies are more modular than hierarchical, with a focus on efficiency and productivity. To wit, many teams take a common hybrid approach: Employees focus on core work and the strategic part of their role that makes them experts at what they do, while independent talent handles peripheral projects, such as repeatable or highly specialized work. The key is thinking about external talent as integral contributors, not just a link in the supply chain.
+
+#### How do you scale your distributed team?
+As your team requirements increase, you will need additional developers. So how do you go from one distributed team member to two or five or ten? Follow these three tips to scale your team effectively:
+
+1. Avoid being the hub
+2. Use technology
+3. Create teams within the team
+
+Avoid being the hub:
+In the beginning, you are naturally the hub through which everything passes. Any piece of information or decision that needs to be made goes through you. However, as your distributed team starts to grow, this structure becomes less and less scalable. Eventually this will slow work down, create longer decision times, and put an overwhelming amount of stress on you. This is obviously not what you want. As your team grows, you need to empower other members to make decisions, whether they are product-related or about adding new members to the team.
+
+Use technology:
+Technology is the glue that holds your team together, especially as it grows and becomes increasingly distributed over time. Whether you rely on videoconferencing, collaboration platforms, instant messaging, or software building tools, technology will enable your team to succeed. Make sure to continually evaluate new technologies as your team grows.
+
+Create teams within the team:
+At a certain point, your organization will grow so much that you need to form teams within your larger team. You might have just a handful of developers involved in a variety of projects at the beginning, but eventually some team specialization will be required. For example, you may need a separate group to focus on front-end development and another one to focus on back-end development. A good rule of thumb is that if more than three people work on a specific function or area, it might be a good idea to formalize that group as a team. Setting up official teams is great because they can own their respective areas—and that allows you to scale without pulling your hair out.
 
