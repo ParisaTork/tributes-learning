@@ -1,6 +1,6 @@
 # tributes-learning
 
-Learning for this [project](https://github.com/tuyetngo1/Tributes):
+## Learning for this [project](https://github.com/tuyetngo1/Tributes):
 
 - [ ] React / GraphQL
   - [ ] [Docs - Intro to React](https://reactjs.org/tutorial/tutorial.html)
@@ -23,3 +23,66 @@ Learning for this [project](https://github.com/tuyetngo1/Tributes):
 - [ ] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/)
 
 (*) = For Wes Bos courses, buy through r/groupdeals
+
+## Notes:
+
+### TS in 5 minutes
+
+#### Type Annotations 
+
+Type annotations in TypeScript are lightweight ways to record the intended contract of the function or variable. 
+
+We can specify the type using :Type after the name of the variable, parameter or property
+
+Example: Type Annotation of Varibles:
+```
+var age: number = 32; // number variable
+var name: string = "John";// string variable
+var isUpdated: boolean = true;// Boolean variable
+```
+Example: Type Annotation of Parameters:
+```
+function display(id:number, name:string)
+{
+    console.log("Id = " + id + ", Name = " + name);
+}
+```
+
+Example: Type Annotation in Objects:
+```
+var employee : { 
+    id: number; 
+    name: string; 
+}; 
+
+employee = { 
+  id: 100, 
+  name : "John"
+}
+```
+
+#### Interfaces
+
+#### Classes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
