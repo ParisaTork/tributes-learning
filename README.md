@@ -593,7 +593,7 @@ Gather feedback and iterate on processes:
 - Lack of interaction and rapport
 - Cultural differences
 
-# Stages of an Agile Scrum Workflow
+#### Stages of an Agile Scrum Workflow
 There are 3 stages to an Agile Scrum Workflow:
 Sprint planning
 Sprint review
