@@ -138,9 +138,37 @@ let myObj = {size: 10, label: "Size 10 Object"};
 printLabel(myObj);
 ```
 
-The interface LabeledValue is a name we can now use to describe the requirement in the previous example. It still represents having a single property called label that is of type string. Notice we didn’t have to explicitly say that the object we pass to printLabel implements this interface like we might have to in other languages. Here, it’s only the shape that matters. If the object we pass to the function meets the requirements listed, then it’s allowed.
+- The interface LabeledValue is a name we can now use to describe the requirement in the previous example. 
+- It still represents having a single property called label that is of type string. 
+- Notice we didn’t have to explicitly say that the object we pass to printLabel implements this interface like we might have to in other languages. 
+- Here, it’s only the shape that matters. If the object we pass to the function meets the requirements listed, then it’s allowed.
+- It’s worth pointing out that the type checker does not require that these properties come in any sort of order, only that the properties the interface requires are present and have the required type.
 
-It’s worth pointing out that the type checker does not require that these properties come in any sort of order, only that the properties the interface requires are present and have the required type.
+<ins>Summary of bullet points above:</ins>
+- Interface = requirement
+- No explicit 'implements'
+- If object passed to function meets requirements (has a property of the interface), it'll 'pass' the compiler
+- Property order doesn't matter
+
+My funner example 🤵🏽🕴🍾:
+
+```
+interface AppropriatelyDressed {
+    blackTieOutfit: string;
+}
+
+function metrosexualBouncer(randomPerson : AppropriatelyDressed) {
+    console.log("Nice " + randomPerson.blackTieOutfit + " !");
+}
+
+let Brian = {blackTieOutfit: "Tuxedo", comportment: "Tipsy"};
+printLabel(Brian);
+
+/** Brian will get in, because of his black tie outfit.
+Even though he's slightly drunk.
+I don't make the rules.
+*/
+```
 
 #### <ins>Classes</ins>
 
