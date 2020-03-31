@@ -314,9 +314,10 @@ Make sure voices are heard during meetings.
 - If in a hybrid (some remote, some not) team, consider having meetings remotely so **EVERYONE interfaces through camera**
 
 #### Tools for Success
-
-- Collaboration capabilities (Google Drive, GSuite)
-- Communication (Slack, Dash)
+- Collaboration capabilities (Google Drive, Google Docs, GSuite, GitHub, Bitbucket, GitLab, Jenkins)
+- Communication (Slack, Dash, Google Meet, Zoom, Email, Chromebox)
+- Screen Capture and Image Sharing (Jing, Snagit)
+- Functional testing tools (TestNG, Selenium, PhantomJS, Sauce Labs)
 
 #### Skills for Success
 - Communication (frequent = good)
@@ -343,7 +344,68 @@ While autonomous teams can be highly efficient, you do run the risk that they co
 - **Lack of steps/documentation or unclear delineation of processes and clarification on each member's role in the process**:
 Remote teams benefit from a shared understanding and documented distinctions and clear process steps.
 
+#### Best Tools for Remote Teams
 
+<ins>Centrally locating project progress and issue tracking</ins>
+
+For more simple development processes, an issue tracker like that built into Github/Gitlab may be sufficient. Using progress assignment, coordination, and tracking tools can help set to-do’s and let everyone check in on the status of a project, no matter where they are. Some projects might be large enough to require two types of project tracking (e.g., Basecamp for high-level project views and JIRA for granular, technical issue tracking).
+
+Suggested tools:
+- JIRA for issue and bug tracking
+- Asana
+- Confluence for documentation
+- Basecamp
+- Trello
+- Float
+- Issue tracking in Github/Gitlab
+
+<ins>Prototype apps for a tighter feedback loop</ins>
+Prototyping apps is crucial for rapid iteration. For mobile apps and user-facing software, prototyping allows for feedback and testing early on. Try one of these platforms to transform static designs into interactive mockups, allowing stakeholders to get the end view of a product.
+
+Suggested tools:
+- InVision
+- Flinto
+- Origami Studio
+- Justinmind
+- Marvel
+- AdobeXD
+
+<ins>Develop, deploy, and monitor in the cloud</ins>
+Software is getting more modular, and so are the IT environments we use to build, test and launch that software. Embracing this approach also makes sense for teams adopting a more distributed model. If you aren’t looking to invest in a large, expensive suite of integrated DevOps software, consider using different tools to divvy up aspects of your development cycle such as collaboration, testing, deployment, or monitoring. Some tools can multitask, so pick the one with the features you need.
+
+Suggested tools:
+- Bamboo
+- Capture for Jira
+- Docker
+- CircleCI
+- Hipchat
+- Amazon Web Services (AWS)
+- Other tools for monitoring: BigPandaHostedGraphite, Nagios, New Relic, Pager Duty, Pingdom, Splunk
+
+<ins>Consider security when sharing data and information</ins>
+What about protecting the data, systems, and communications that happen when you’re hiring remote freelancers? You might opt to use a virtual private network (VPN) to encrypt connections, grant limited FTP access, or limit rights and permissions when granting access to your server. Download Upwork’s Data Security whitepaper for practical tips on securely working with remote freelancers.
+
+Suggested tools:
+- Dropbox
+- SmartFile
+- Google Drive
+
+#### Best Practices for Rapidly Adopting a Remote Work Strategy
+
+Three Trust Pillars
+1. Trust that each person knows how to do the work.
+2. They’re accountable to each other.
+3. They’re doing their best in uncertain circumstances.
+
+*Consider these tips to help support your team as you all move forward:*
+
+- **Be available.** Communication is pivotal to your team’s success—and that includes creating space if someone needs to talk. Sometimes, people just need to feel heard, whether they have a conflict with a colleague, struggle with working on their own, or are anxious about news in their community.
+- **Create a sense of community.** Working from home can be isolating—something that can impact wellbeing as well as productivity. Find ways for your team to stay connected on a regular basis. Here are some ideas:
+    - **Daily coffee breaks:** A daily “coffee break” can give everyone a chance to catch up and talk about their day.
+    - **Weekly team meetings:** A weekly team meeting can help everyone share successes and stay in the loop.
+    - **Video calls:** Use video calls to keep your team engaged. Meetings have different dynamics when you aren’t sitting around the same table. Circulate an agenda ahead of time so your team can be prepared, and call on each person so everyone has a chance to speak. Pause frequently so there’s room for questions that may come up.
+- **Err on the side of overcommunication.** Particularly while everyone adjusts to new working arrangements, share frequently—whether it’s updates from the executive team or a progress report on current projects.
+- **Set clear expectations, roles, and responsibilities.** Reduce duplicated efforts and cross-communication by defining individual roles and responsibilities. For example, you might be the only one with remote access to sensitive customer information; another person may liaise with IT to troubleshoot tech problems.
 
 
 
