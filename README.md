@@ -323,9 +323,12 @@ Make sure voices are heard during meetings.
 - Communication (frequent = good)
 - Organization
 - Understand your schedule + set boundaries
+
+#### Hiring the right people
 - Grit & Drive
 - Autonomy (esp. self-autonomy)
 - Track Record of Success
+- Locate teams in same or close timezones
 
 #### Growing Pains without right tools/tech
 
@@ -360,6 +363,7 @@ Suggested tools:
 - Issue tracking in Github/Gitlab
 
 <ins>Prototype apps for a tighter feedback loop</ins>
+
 Prototyping apps is crucial for rapid iteration. For mobile apps and user-facing software, prototyping allows for feedback and testing early on. Try one of these platforms to transform static designs into interactive mockups, allowing stakeholders to get the end view of a product.
 
 Suggested tools:
@@ -371,6 +375,7 @@ Suggested tools:
 - AdobeXD
 
 <ins>Develop, deploy, and monitor in the cloud</ins>
+
 Software is getting more modular, and so are the IT environments we use to build, test and launch that software. Embracing this approach also makes sense for teams adopting a more distributed model. If you aren’t looking to invest in a large, expensive suite of integrated DevOps software, consider using different tools to divvy up aspects of your development cycle such as collaboration, testing, deployment, or monitoring. Some tools can multitask, so pick the one with the features you need.
 
 Suggested tools:
@@ -383,6 +388,7 @@ Suggested tools:
 - Other tools for monitoring: BigPandaHostedGraphite, Nagios, New Relic, Pager Duty, Pingdom, Splunk
 
 <ins>Consider security when sharing data and information</ins>
+
 What about protecting the data, systems, and communications that happen when you’re hiring remote freelancers? You might opt to use a virtual private network (VPN) to encrypt connections, grant limited FTP access, or limit rights and permissions when granting access to your server. Download Upwork’s Data Security whitepaper for practical tips on securely working with remote freelancers.
 
 Suggested tools:
@@ -407,14 +413,12 @@ Three Trust Pillars
 - **Err on the side of overcommunication.** Particularly while everyone adjusts to new working arrangements, share frequently—whether it’s updates from the executive team or a progress report on current projects.
 - **Set clear expectations, roles, and responsibilities.** Reduce duplicated efforts and cross-communication by defining individual roles and responsibilities. For example, you might be the only one with remote access to sensitive customer information; another person may liaise with IT to troubleshoot tech problems.
 
-
-
-
-
-
-
-
-
+#### Keeping Remote Employees on Task
+- Communication is key - local employees get information through osmosis - remote employees don't have that context
+- Manager's job is to ensure employees make decisions effectively
+- Members who typically struggle with priorities and setting goals may require more frequent check-ins, where you may need to break down their goals into sub-goals.
+- By setting aside time as part of creating a community, you may find team check-ins can focus on specific agendas.
+- It is important to prioritize the emotional and personal needs of team members - so make yourself available for conversations more frequently.
 
 
 
