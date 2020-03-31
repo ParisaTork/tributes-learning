@@ -169,6 +169,55 @@ Even though he's slightly drunk.
 I don't make the rules.
 */
 ```
+<ins>Optional Properties</ins>
+Interfaces with optional properties are written similar to other interfaces, with each optional property denoted by a ? at the end of the property name in the declaration.
+
+Example of interface with optional properties:
+```
+interface SquareConfig {
+    color?: string;
+    width?: number;
+}
+
+function createSquare(config: SquareConfig): {color: string; area: number} {
+    let newSquare = {color: "white", area: 100};
+    if (config.color) {
+        newSquare.color = config.color;
+    }
+    if (config.width) {
+        newSquare.area = config.width * config.width;
+    }
+    return newSquare;
+}
+
+let mySquare = createSquare({color: "black"});
+```
+The advantage of optional properties is that you can describe these possibly available properties while still also preventing use of properties that are not part of the interface. For example, had we mistyped the name of the color property in createSquare, we would get an error message e.g. if we had a color property and spelt it as 'clor', the error message would be: Error: Property 'clor' does not exist on type 'SquareConfig'
+
+<ins>Summary of Optional Properties</ins>
+- Can be denoted with a ? e.g. color?:string
+- Useful in case of misspellings
+
+<ins>Readonly Properties</ins>
+Use readonly keyword before property name:
+```
+interface Point {
+    readonly x: number;
+    readonly y: number;
+}
+```
+TypeScript comes with a ReadonlyArray<T> type that is the same as Array<T> with all mutating methods removed, so you can make sure you don’t change your arrays after creation (can be overridden with a type assertion though):
+  
+```
+let a: number[] = [1, 2, 3, 4];
+let ro: ReadonlyArray<number> = a;
+ro[0] = 12; // error!
+ro.push(5); // error!
+ro.length = 100; // error!
+a = ro; // error!
+```
+<ins>readonly vs const</ins>
+Variables use const whereas properties use readonly.
 
 #### <ins>Classes</ins>
 
