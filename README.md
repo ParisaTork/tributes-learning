@@ -25,13 +25,11 @@
   
 - [ ] [TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html) 
   - [x] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - [notes](#ts5mins)
-  - [ ] [Introduction to TypeScript (Tamas Piros)](https://learning.oreilly.com/videos/introduction-to-typescript/10000DIHV201907) - [notes](#tsintro)
-  - [ ] [Mastering TypeScript Programming Techniques (Tamas Piros)](https://learning.oreilly.com/videos/mastering-typescript-programming/9781787121416)
   - [ ] TS toy project
 
 - [ ] Other
   - [x] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/) - [GitHub repo](https://github.com/ParisaTork/amplifyapp) + [URL](https://master.dq83h9g14lssn.amplifyapp.com/)
-  - [ ] [Managing Remote Teams with Upwork (Udacity)](https://classroom.udacity.com/courses/ud942)
+  - [ ] [Managing Remote Teams with Upwork (Udacity)](https://classroom.udacity.com/courses/ud942) - [notes](#upwork)
 
 (*) = For Wes Bos courses, buy through r/groupdeals
 
@@ -287,7 +285,9 @@ greeter.html file
 2) Open greeter.html file in the browser
 ***
 
-### Introduction to TypeScript (Tamas Piros) <a name="tsintro"></a>
+### Managing Remote Teams with Upwork (Udacity) <a name="upwork"></a>
+
+
 
 
 
