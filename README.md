@@ -456,7 +456,7 @@ Think about the entire work relationship, from vetting to communicating to payin
 - Give new employee a 'buddy'
 - Get feedback so onboarding improves
 
-#### Set your new remote team up for success.
+#### Set your new remote team up for success
 Your project is most likely to get off to a strong start if you’ve already organized the details and resources the team will need to hit the ground running. You’ll want to plan for and provide:
 
 - A regular team meeting: Once you make a new hire or finish assembling your remote team, you may want to facilitate a group meeting to get everyone acquainted so everyone knows who’s doing what. It also helps initiate collaboration, which is important when team members are scattered around the world.
@@ -478,14 +478,113 @@ When you can work with anyone from virtually anywhere, you suddenly have access 
 - Mutually beneficial work relationships:
 When a full-time team member leaves, that skill gap can bring critical projects to a grinding halt. With a mix of traditional and distributed talent, you can avoid this scenario altogether. Give people the opportunity to work on projects they care about and the flexibility to work when, where, and how they want, and most will call that a dream job. This is why distributed team members tend to form work relationships that stand the test of time. Compare that to a typical Silicon Valley start-up in which recruiters are constantly trying to poach your engineers.
 
-- Lower overall cost.
+- Lower overall cost:
 As more and more businesses compete for local talent, engineers in the U.S. (and especially in the Bay Area) are commanding higher pay than similarly skilled international engineers. So for the same budget, you may be able to afford many times the engineering talent remotely than you would locally. Depending on your funding situation and your profitability goals, this may be a big decision factor. However, the axiom “you get what you pay for” applies here. Given the cost savings, we would advise that you work with only the best remote engineers, even if they are significantly more expensive than the average. You can afford the “10x engineers,” the “unicorns,” so take the opportunity!
 
+#### Top tips for creating a successful distributed engineering team:
+- Find the best talent, and don’t focus only on cost
+- Communicate and collaborate.
+- Be persistent and expect there to be a learning curve.
+- Create overlapping availability for your team to be online.
+- Use technology for asynchronous and synchronous communication and collaboration.
+- Make remote team members feel just as valued as on-site engineers.
 
+#### Overcoming common concerns about online work:
+- “Outsourcing product development is a terrible idea.”
+Distributed work done right creates a well-oiled hybrid team of employees and independent talent who get to know and respect each other. Traditional outsourcing, not so much. When you work online, your process should be the same as it would be with someone who lives down the block. Interviewing, team coordination, open communication and collaboration, and everything else that goes into building a traditional team still applies. This isn’t about finding the cheapest person and sending them tasks to check off. (You wouldn’t take this approach with local talent—why do so when working with someone remotely?) The bottom line is that if you treat distributed team members as important contributors, they will deliver better results. Remember, you aren’t simply outsourcing—you’re building relationships.
 
+- “The process is going to be too slow.”
+You might think that hiring online is too slow or tedious. In reality, it is much faster than hiring through traditional sources. On Upwork, that’s definitely the case—a quarter of our site’s job posts are filled within 24 hours, and the average time to hire is only three days. Traditional hiring can take months. With online hiring, you can enjoy the flexibility of meeting online, there is no commuting, and you can learn a lot by reading personal online profiles before you decide to contact a professional.
 
+- “There won’t be any trust.”
+The issue of trust when working with a distributed team is one of the most common—and one of the most misplaced—concerns. When it comes down to it, an on-site worker can just as easily do bad things as someone working online. Proximity does not guarantee integrity. Hiring online often provides more transparency, since you can see feedback from previous clients and more easily “test-drive”your relationship. If your ability to enforce IP rights and other legal aspects of the relationship is a concern, simply consider narrowing down the countries you work with or invest in legal services. Keep in mind that independent talent who use online marketplaces rely on great feedback, testimonials, and references to secure more work in the future. They are professionals with reputations to protect and families to support. They want to do a great job.
 
+#### How to maintain a mutually beneficial remote working relationship
 
+Focus on the relationship:
+Hopefully by now you see the strengths of distributed team-building over traditional outsourcing. The next step is to turn the relationship into a scalable one. We have engaged some of our developers and technical talent on and off for more than five years. Our team leads have been able to maintain these mutually beneficial work relationships by following three rules of thumb:
+
+1. Establish from the start that there is mutual interest in longer relationships
+2. Take steps to make your remote team members feel valued
+3. Focus on motivation and engagement
+
+Identify mutual interest in longer relationships:
+This is a relatively simple thing to do and just requires being candid and up front about your intentions and expectations. When hiring, find out if candidates are interested in building a meaningful work relationship with you and your company. Of course, in order for them to make this decision, they need to be clear on your expectations and their role in the work.Share as much information as you’re comfortable with to help them understand the project and give you an honest answer.
+
+Make distributed team members feel valued:
+Whether they are local or online, treat all of your developers as though they are equally valued players. This means:
+
+- giving them the relevant information
+- sharing with them the same successes or failures
+- collaborating with them throughout the project.
+
+Rely on your collaboration technology to make this easy, and consider giving them certain high priorities or allowances to keep them engaged.
+
+#### Formal vs Informal Meetings
+- Formal:
+  - For larger groups
+  - Structured agendas
+  - Town hall-type capabilities
+  - Plan for Q&A
+  - Note taking for records
+  - Voting
+- Informal:
+  - Google Hangouts
+  - Encourage micro-communications
+
+#### Managing a Remote Team Effectively
+- Delegate and de-centralize wherever possible.
+- May often want to form a number of remote teams, grouped by similar time zones, to support collaboration.
+Where team members are not in similar time zones, find overlap time when you can hold your key team meetings, scrum sessions, etc.
+- But some engineering teams like the site reliability group, will often use a "follow the sun" model, where they want to have global coverage by time zone, to ensure someone is available 24/7 to troubleshoot site downtime issues.
+
+Get everyone on board, right at the start:
+Get everyone together as quickly as possible right in the beginning and straighten out basics. 
+- Define requirements, basic terminologies, metrics for progress and success, and objectives that need to be achieved. 
+- Get everyone’s schedule beforehand so that the chances of someone missing out are minimized.
+- Be as considerate as possible when accommodating time zone differences and locations but try to get the entire team together for the initial meeting. If everyone is in sync and team members are clear about their role and objectives, then you’re setting up a self-sustaining model for collaboration that will lead to minimum hassle.
+
+Keep communication simple and natural:
+The more is not the merrier when it comes to communication tools. People like simple ways to get information across. 
+- By having an email client, a messaging service, a product wiki, a task board, an instant messenger, and everything under the sun to talk to team members, you’re only increasing their headache. Keep the interaction as natural as possible. Find the right tools, not all the tools. 
+- Most tools offer integrations with a wide variety of other tools to create a simplified workflow. It is best to minimize setup overhead. Consider tools that fill in the holes in your process rather than create a noisy channel.
+
+Update tasks daily:
+Keep everyone in the loop. 
+- When people are distributed all over the world, giving them something that can make them feel part of the team helps. This avoids creating a feeling of “us and them”. 
+- A transparent process keeps communication simple and reduces the number of times someone has to be updated about task progress. Employing an efficient ticketing or issue tracking system is a good investment, in that regard. 
+- A well-maintained backlog of tasks and issues organized in one central location can do wonders to create a smooth sailing ship. Think about it — would you like one platform to know where things stand or ten different small ones to piece together the puzzle? Teams have sufficient context and everyone is on the same page.
+
+Keep subsequent meetings relevant:
+- Apart from one big stand up where everyone is involved, keep subsequent meetings relevant and on point. 
+- Some managers have a daily update meeting, while some do it once a week. This will vary from team to team. Depending on the project’s timeline and complexity, different teams will require varying attention.
+- Only bring in team members who are concerned with that specific aspect of the project. Narrower scope of meetings, wherever possible, increase the chance to go into details about each issue and get more done. As your team increases in size, it becomes all the more important to hit the nail and focus attention on specifics.
+
+Check in for One-on-one meetings:
+- Reach out and check with team members for face-to-face meetings, periodically. Letting your team know that you’re available for a one-on-one meeting helps foster trust and reliability. Remove communication barriers wherever possible, after all the biggest resource on your team are the people. Make sure they are comfortable and on board. Motivation can be hard to sustain if you’re working alone in one corner of the world. This is why letting teammates know that they are valued and equal owners on the project is all the more important.
+
+Smooth onboarding for new members:
+- Create a system where new team members can get up to date and integrated into the team as soon as possible.
+- Have a consistent set of documentation that contains details of the project, relevant requirements, basic terms and definitions, and standard guidelines. Minimizing the onboarding time adds to how quick new recruits can add productively to your project. This aspect also highlights the importance of having well-defined processes and the corresponding documentation to go with it.
+
+Get the team together to bond:
+- Nothing beats the impact and effectiveness of face-to-face communication. Fostering team spirit is easiest when team members can meet in person. While it’s not possible for all teams to afford to get everyone together routinely, any such opportunity that arises should be welcomed and taken. This leads to better engagement and collaboration.
+- Having a fun activity to complement the team’s meeting helps bring everyone closer and create a sense of belonging among the team. In case face to face meetings are not possible, group video calls that are aimed at breaking the ice and team building rather than just discussing work are helpful alternatives in such scenarios.
+
+Gather feedback and iterate on processes:
+- Listen to team members for what they think can be better during remote collaboration. Whether those concerns are technical, organizational or cultural, get feedback from everyone on what processes can be improved and how they can feel more comfortable on the team. 
+- Iterate on your processes like you would iterate on your project. No setup is perfect right away. It takes continuous evaluation and feedback to reach peak performance.
+
+#### Best Practices for Managing Remote Teams Effectively
+
+- Hire people you trust, and build trustworthy cooperation.
+- Communicate frequently and sufficiently.
+- Use modern tools to facilitate work and communication processes.
+- Set reachable and clear goals.
+- Use a transparent and fair report and control system.
+- Let people know that their work matters.
+- Give and gather feedback.
+- Invest in traveling to have in-person meetings with the team.
 
 
 
