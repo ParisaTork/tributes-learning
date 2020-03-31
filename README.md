@@ -6,9 +6,9 @@ Learning for this [project](https://github.com/tuyetngo1/Tributes):
   - [ ] [Docs - Intro to React](https://reactjs.org/tutorial/tutorial.html)
   - [ ] [Docs - Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
   - [ ] [Maximilian Schwarzmüller](https://learning.oreilly.com/videos/react-the/9781789132229)
-  - [ ] [Wes Bos](https://reactforbeginners.com/)
+  - [ ] [Wes Bos*](https://reactforbeginners.com/)
   - [ ] [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
-  - [ ] [Advanced React and GraphQL (Wes Bos)](https://advancedreact.com/)
+  - [ ] [Advanced React and GraphQL (Wes Bos)*](https://advancedreact.com/)
   - [ ] [GraphQL docs](https://graphql.org/learn/)
 
 - [ ] Next.js / CSS-in-JS
@@ -21,3 +21,5 @@ Learning for this [project](https://github.com/tuyetngo1/Tributes):
   - [ ] [Mastering TypeScript Programming Techniques (Tamas Piros)](https://learning.oreilly.com/videos/mastering-typescript-programming/9781787121416)
 
 - [ ] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/)
+
+* For Wes Bos courses, buy through r/groupdeals
