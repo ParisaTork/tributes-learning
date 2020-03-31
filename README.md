@@ -20,13 +20,23 @@
   - [ ] [Introduction to TypeScript (Tamas Piros)](https://learning.oreilly.com/videos/introduction-to-typescript/10000DIHV201907)
   - [ ] [Mastering TypeScript Programming Techniques (Tamas Piros)](https://learning.oreilly.com/videos/mastering-typescript-programming/9781787121416)
 
-- [ ] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/)
+- [ ] Other
+  - [ ] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/)
+  - [ ] [Managing Remote Teams with Upwork (Udacity)](https://classroom.udacity.com/courses/ud942)
 
 (*) = For Wes Bos courses, buy through r/groupdeals
 
 ## Notes:
 
 ### TS in 5 minutes
+
+VSCode = best IDE for TS
+
+#### Running the TS compiler in Terminal
+
+```
+tsc filename.ts
+```
 
 #### Type Annotations 
 
@@ -61,9 +71,35 @@ employee = {
 }
 ```
 
-#### Interfaces
+#### Interfaces - [TBT](https://github.com/sebastianchristopher/acebook-ePact/wiki/Interfaces-(Parisa))
+
+An interface is a syntactical contract that an entity should conform to. In other words, an interface defines the syntax that any entity must adhere to.
+
+The interface keyword is used to declare an interface. The interface name is typically capitalized.
+
+In TypeScript, two types are compatible if their internal structure is compatible. This allows us to implement an interface just by having the shape the interface requires, without an explicit implements clause.
+
+```
+interface Person {
+    firstName: string;
+    lastName: string;
+}
+
+function greeter(person: Person) {
+    return "Hello, " + person.firstName + " " + person.lastName;
+}
+
+let user = { firstName: "Jane", lastName: "User" };
+```
 
 #### Classes
+
+TypeScript supports new features in JavaScript, like support for class-based object-oriented programming.
+
+Here we’re going to create a Student class with a constructor and a few public fields. Notice that classes and interfaces play well together, letting the programmer decide on the right level of abstraction.
+
+Also of note, the use of public on arguments to the constructor is a shorthand that allows us to automatically create properties with that name.
+
 
 
 
