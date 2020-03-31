@@ -2,28 +2,29 @@
 
 ## Learning for this [project](https://github.com/tuyetngo1/Tributes):
 
-- [ ] React / GraphQL
+- [ ] [React](https://reactjs.org/docs/getting-started.html) / [GraphQL](https://graphql.org/learn/)
   - [ ] [Docs - Intro to React](https://reactjs.org/tutorial/tutorial.html)
   - [ ] [Docs - Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
-  - [ ] [Maximilian Schwarzmüller](https://learning.oreilly.com/videos/react-the/9781789132229)
-  - [ ] [Wes Bos*](https://reactforbeginners.com/)
+  - [ ] [React (Maximilian Schwarzmüller)](https://learning.oreilly.com/videos/react-the/9781789132229)
+  - [ ] [React for Beginners (Wes Bos)*](https://reactforbeginners.com/)
   - [ ] [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
   - [ ] [Advanced React and GraphQL (Wes Bos)*](https://advancedreact.com/)
-  - [ ] [GraphQL docs](https://graphql.org/learn/)
+  - [ ] [Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+  - [ ] [Exploring GraphQL: A Query Language for APIs (edX)](https://www.edx.org/course/exploring-graphql-a-query-language-for-apis)
   - [ ] [Create a front-end app with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
   - [ ] [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
   - [ ] [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
   - [ ] React toy project
   - [ ] GraphQL toy project
 
-- [ ] Next.js / CSS-in-JS
+- [ ] [Next.js](https://nextjs.org/learn/basics/getting-started) / [CSS-in-JS](https://cssinjs.org/?v=v10.1.1)
   - [ ] [Next.js + CSS-in-JS (Next.js docs)](https://nextjs.org/learn/basics/getting-started)
   - [ ] [Universal React with Next.js](https://learning.oreilly.com/videos/universal-react-with/9781839210792)
   - [ ] Next.js toy project
   - [ ] CSS-in-JS toy project
   
-- [ ] TypeScript 
-  - [ ] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [ ] [TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html) 
+  - [x] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
   - [ ] [Introduction to TypeScript (Tamas Piros)](https://learning.oreilly.com/videos/introduction-to-typescript/10000DIHV201907)
   - [ ] [Mastering TypeScript Programming Techniques (Tamas Piros)](https://learning.oreilly.com/videos/mastering-typescript-programming/9781787121416)
   - [ ] TS toy project
@@ -81,7 +82,7 @@ employee = {
 }
 ```
 
-#### <ins>Interfaces - [TBT](https://github.com/sebastianchristopher/acebook-ePact/wiki/Interfaces-(Parisa))</ins>
+#### <ins>Interfaces - [TBT](https://github.com/sebastianchristopher/acebook-ePact/wiki/Interfaces-(Parisa))</ins> - To read: [Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 
 An interface is a syntactical contract that an entity should conform to. In other words, an interface defines the syntax that any entity must adhere to.
 
@@ -199,6 +200,7 @@ The advantage of optional properties is that you can describe these possibly ava
 - Useful in case of misspellings
 
 <ins>Readonly Properties</ins>
+
 Use readonly keyword before property name:
 ```
 interface Point {
@@ -217,9 +219,29 @@ ro.length = 100; // error!
 a = ro; // error!
 ```
 <ins>readonly vs const</ins>
+
 Variables use const whereas properties use readonly.
 
-#### <ins>Classes</ins>
+<ins>Excess Property Checks</ins>
+
+```
+interface SquareConfig {
+    color?: string;
+    width?: number;
+}
+
+function createSquare(config: SquareConfig): { color: string; area: number } {
+    // ...
+}
+
+let mySquare = createSquare({ colour: "red", width: 100 });
+```
+
+mySquare would fail, because object literals get special treatment and undergo excess property checking when assigning them to other variables, or passing them as arguments. If an object literal has any properties that the “target type” doesn’t have, you’ll get an error.
+
+**Got to 'Excess Property Checks' [here](https://www.typescriptlang.org/docs/handbook/interfaces.html)**
+
+#### <ins>Classes</ins> - To read: [Classes](https://www.typescriptlang.org/docs/handbook/classes.html)
 
 TypeScript supports new features in JavaScript, like support for class-based object-oriented programming.
 
@@ -227,6 +249,42 @@ Here we’re going to create a Student class with a constructor and a few public
 
 Also of note, the use of public on arguments to the constructor is a shorthand that allows us to automatically create properties with that name.
 
+```
+class Student {
+    fullName: string;
+    constructor(public firstName: string, public middleInitial: string, public lastName: string) {
+        this.fullName = firstName + " " + middleInitial + " " + lastName;
+    }
+}
+
+interface Person {
+    firstName: string;
+    lastName: string;
+}
+
+function greeter(person: Person) {
+    return "Hello, " + person.firstName + " " + person.lastName;
+}
+
+let user = new Student("Jane", "M.", "User");
+
+document.body.textContent = greeter(user);
+```
+
+#### <ins>Running your TypeScript web app</ins>
+
+greeter.html file
+```
+<!DOCTYPE html>
+<html>
+    <head><title>TypeScript Greeter</title></head>
+    <body>
+        <script src="greeter.js"></script>
+    </body>
+</html>
+```
+1) Create this greeter.html file
+2) Open greeter.html file in the browser
 ***
 
 
