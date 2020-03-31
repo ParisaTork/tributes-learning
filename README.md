@@ -22,4 +22,4 @@ Learning for this [project](https://github.com/tuyetngo1/Tributes):
 
 - [ ] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/)
 
-* For Wes Bos courses, buy through r/groupdeals
+(*) = For Wes Bos courses, buy through r/groupdeals
