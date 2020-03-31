@@ -25,6 +25,7 @@
   
 - [ ] [TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html) 
   - [x] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - [notes](#ts5mins)
+  - [ ] [TS (Exercism)](https://exercism.io/tracks/typescript)
   - [ ] TS toy project
 
 - [x] Other
