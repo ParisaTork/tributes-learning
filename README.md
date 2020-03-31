@@ -287,7 +287,31 @@ greeter.html file
 
 ### Managing Remote Teams with Upwork (Udacity) <a name="upwork"></a>
 
+#### Leading Remote Teams Effectively
 
+- Update your expectations:
+The single most effective change a company (or the leader of a team) can make is to take a remote-first approach. Don’t just tolerate remote team members as add-ons to your regular meetings: assume that everyone is or may be remote at any time.
+
+- Focus on results:
+Set expectations for output early, and reinforce them often. Focus on results. Companies that consider themselves “results-only work environments” focus on what each team member actually delivers, not on where, how or even when they work.
+
+- Embrace technology:
+Choose collaboration technologies that are simple, reliable and accessible enough for all to use easily (and frequently)
+
+- Create a “virtual water cooler”:
+Provide opportunities for team members to socialize online, for instance, through Slack, to replace the “water cooler” moments they will be missing from the real-world office. Done right, virtual communication can be even better than in-person.
+
+- Keep tabs on conversation:
+Managers need to pay close attention to team communication channels, as you will need to be constantly adjusting, coordinating, clarifying and helping avoid misunderstandings.
+
+- Be thoughtful about support:
+Make sure voices are heard during meetings. 
+
+- Realise that it's hard for remotes to read body language/interject in video meetings - Solution: 'Hey, what do you think?' to each employee. 
+
+- Be thoughtful about giving remote employees the floor
+
+- If in a hybrid (some remote, some not) team, consider having meetings remotely so EVERYONE interfaces through camera
 
 
 
