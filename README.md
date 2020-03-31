@@ -289,33 +289,59 @@ greeter.html file
 
 #### Leading Remote Teams Effectively
 
-- Update your expectations:
+- Update your **expectations**:
 The single most effective change a company (or the leader of a team) can make is to take a remote-first approach. Don’t just tolerate remote team members as add-ons to your regular meetings: assume that everyone is or may be remote at any time.
 
-- Focus on results:
-Set expectations for output early, and reinforce them often. Focus on results. Companies that consider themselves “results-only work environments” focus on what each team member actually delivers, not on where, how or even when they work.
+- Focus on **results**:
+Set **expectations for output early**, and reinforce them often. Focus on results. Companies that consider themselves “results-only work environments” focus on what each team member actually delivers, not on where, how or even when they work.
 
 - Embrace technology:
-Choose collaboration technologies that are simple, reliable and accessible enough for all to use easily (and frequently)
+Choose collaboration technologies that are **simple, reliable and accessible** enough for all to use **easily (and frequently)**
 
-- Create a “virtual water cooler”:
+- Create a **“virtual water cooler”**:
 Provide opportunities for team members to socialize online, for instance, through Slack, to replace the “water cooler” moments they will be missing from the real-world office. Done right, virtual communication can be even better than in-person.
 
-- Keep tabs on conversation:
-Managers need to pay close attention to team communication channels, as you will need to be constantly adjusting, coordinating, clarifying and helping avoid misunderstandings.
+- Keep tabs on **conversation**:
+Managers need to pay close attention to team communication channels, as you will need to be constantly adjusting, coordinating, **clarifying** and helping avoid misunderstandings.
 
-- Be thoughtful about support:
+- Be thoughtful about **support**:
 Make sure voices are heard during meetings. 
 
-- Realise that it's hard for remotes to read body language/interject in video meetings - Solution: 'Hey, what do you think?' to each employee. 
+- Realise that it's hard for remotes to read **body language/interject** in video meetings - Solution: 'Hey, what do you think?' to each employee. 
 
-- Be thoughtful about giving remote employees the floor
+- Be thoughtful about giving remote employees the **floor**
 
-- If in a hybrid (some remote, some not) team, consider having meetings remotely so EVERYONE interfaces through camera
+- If in a hybrid (some remote, some not) team, consider having meetings remotely so **EVERYONE interfaces through camera**
 
+#### Tools for Success
 
+- Collaboration capabilities (Google Drive, GSuite)
+- Communication (Slack, Dash)
 
+#### Skills for Success
+- Communication (frequent = good)
+- Organization
+- Understand your schedule + set boundaries
+- Grit & Drive
+- Autonomy (esp. self-autonomy)
+- Track Record of Success
 
+#### Growing Pains without right tools/tech
+
+- **Vague or poorly defined process**:
+When the development lifecycle is not well defined, things can easily become a mess. For those overseeing the process, it’s crucial to understand that communication with a remote team can be scarce compared to communication in an office. There should be no room for implications or interpretations.
+
+- **Version control issues, duplicate code, or messy code**:
+Remember, the idea behind distributed teams is that they allow you to get more work done separately, but if developers aren’t communicating effectively you can create new problems and new headaches.
+
+- **Dependencies between teams**:
+Divvying up work to get it done faster is great, but you never want one team to be waiting on another to complete their work before they can move forward. These scenarios are known as dependencies and they can negate the efficiency of dividing up the project—unless, that is, you strategically break up code to minimize these dependencies.
+
+- **Lack of coordination between teams**:
+While autonomous teams can be highly efficient, you do run the risk that they could progressively diverge and stop communicating important information with each other.
+
+- **Lack of steps/documentation or unclear delineation of processes and clarification on each member's role in the process**:
+Remote teams benefit from a shared understanding and documented distinctions and clear process steps.
 
 
 
