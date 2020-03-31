@@ -10,15 +10,23 @@
   - [ ] [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
   - [ ] [Advanced React and GraphQL (Wes Bos)*](https://advancedreact.com/)
   - [ ] [GraphQL docs](https://graphql.org/learn/)
+  - [ ] [Create a front-end app with React](https://www.codecademy.com/learn/paths/build-web-apps-with-react)
+  - [ ] [Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101)
+  - [ ] [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
+  - [ ] React toy project
+  - [ ] GraphQL toy project
 
 - [ ] Next.js / CSS-in-JS
   - [ ] [Next.js + CSS-in-JS (Next.js docs)](https://nextjs.org/learn/basics/getting-started)
   - [ ] [Universal React with Next.js](https://learning.oreilly.com/videos/universal-react-with/9781839210792)
+  - [ ] Next.js toy project
+  - [ ] CSS-in-JS toy project
   
 - [ ] TypeScript 
   - [ ] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
   - [ ] [Introduction to TypeScript (Tamas Piros)](https://learning.oreilly.com/videos/introduction-to-typescript/10000DIHV201907)
   - [ ] [Mastering TypeScript Programming Techniques (Tamas Piros)](https://learning.oreilly.com/videos/mastering-typescript-programming/9781787121416)
+  - [ ] TS toy project
 
 - [ ] Other
   - [ ] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/)
@@ -26,19 +34,21 @@
 
 (*) = For Wes Bos courses, buy through r/groupdeals
 
+***
+
 ## Notes:
 
 ### TS in 5 minutes
 
 VSCode = best IDE for TS
 
-#### Running the TS compiler in the CL
+#### <ins>Running the TS compiler in the CL</ins>
 
 ```
 tsc filename.ts
 ```
 
-#### Type Annotations 
+#### <ins>Type Annotations</ins>
 
 Type annotations in TypeScript are lightweight ways to record the intended contract of the function or variable. 
 
@@ -71,7 +81,7 @@ employee = {
 }
 ```
 
-#### Interfaces - [TBT](https://github.com/sebastianchristopher/acebook-ePact/wiki/Interfaces-(Parisa))
+#### <ins>Interfaces - [TBT](https://github.com/sebastianchristopher/acebook-ePact/wiki/Interfaces-(Parisa))</ins>
 
 An interface is a syntactical contract that an entity should conform to. In other words, an interface defines the syntax that any entity must adhere to.
 
@@ -109,7 +119,7 @@ printLabel(myObj);
 - Notice that our object actually has more properties than this, but the compiler only checks that at least the ones required are present and match the types required. 
 - There are some cases where TypeScript isn’t as lenient, which we’ll cover in a bit.
 
-Summary of bullet points above:
+<ins>Summary of bullet points above:</ins>
 - Parameter of function required to have object with specific property (label: string)
 - Object will 'pass' the compiler if has this property - superfluous properties don't matter *this* time
 
@@ -132,13 +142,15 @@ The interface LabeledValue is a name we can now use to describe the requirement 
 
 It’s worth pointing out that the type checker does not require that these properties come in any sort of order, only that the properties the interface requires are present and have the required type.
 
-#### Classes
+#### <ins>Classes</ins>
 
 TypeScript supports new features in JavaScript, like support for class-based object-oriented programming.
 
 Here we’re going to create a Student class with a constructor and a few public fields. Notice that classes and interfaces play well together, letting the programmer decide on the right level of abstraction.
 
 Also of note, the use of public on arguments to the constructor is a shorthand that allows us to automatically create properties with that name.
+
+***
 
 
 
