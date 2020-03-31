@@ -24,8 +24,8 @@
   - [ ] CSS-in-JS toy project
   
 - [ ] [TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html) 
-  - [x] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-  - [ ] [Introduction to TypeScript (Tamas Piros)](https://learning.oreilly.com/videos/introduction-to-typescript/10000DIHV201907)
+  - [x] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - [notes](#ts5mins)
+  - [ ] [Introduction to TypeScript (Tamas Piros)](https://learning.oreilly.com/videos/introduction-to-typescript/10000DIHV201907) - [notes](#tsintro)
   - [ ] [Mastering TypeScript Programming Techniques (Tamas Piros)](https://learning.oreilly.com/videos/mastering-typescript-programming/9781787121416)
   - [ ] TS toy project
 
@@ -39,7 +39,7 @@
 
 ## Notes:
 
-### TS in 5 minutes
+### TS in 5 minutes <a name="ts5mins"></a>
 
 VSCode = best IDE for TS
 
@@ -286,6 +286,8 @@ greeter.html file
 1) Create this greeter.html file
 2) Open greeter.html file in the browser
 ***
+
+### Introduction to TypeScript (Tamas Piros) <a name="tsintro"></a>
 
 
 
