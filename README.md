@@ -32,7 +32,7 @@
 
 VSCode = best IDE for TS
 
-#### Running the TS compiler in Terminal
+#### Running the TS compiler in the CL
 
 ```
 tsc filename.ts
@@ -79,6 +79,7 @@ The interface keyword is used to declare an interface. The interface name is typ
 
 In TypeScript, two types are compatible if their internal structure is compatible. This allows us to implement an interface just by having the shape the interface requires, without an explicit implements clause.
 
+Example of an interface:
 ```
 interface Person {
     firstName: string;
@@ -91,6 +92,45 @@ function greeter(person: Person) {
 
 let user = { firstName: "Jane", lastName: "User" };
 ```
+
+The easiest way to see how interfaces work is to start with a simple example:
+
+```
+function printLabel(labeledObj: { label: string }) {
+    console.log(labeledObj.label);
+}
+
+let myObj = {size: 10, label: "Size 10 Object"};
+printLabel(myObj);
+```
+
+- The type checker checks the call to the function (printLabel). 
+- The printLabel function has a single parameter that requires that the object passed in has a property called label of type string. 
+- Notice that our object actually has more properties than this, but the compiler only checks that at least the ones required are present and match the types required. 
+- There are some cases where TypeScript isn’t as lenient, which we’ll cover in a bit.
+
+Summary of bullet points above:
+- Parameter of function required to have object with specific property (label: string)
+- Object will 'pass' the compiler if has this property - superfluous properties don't matter *this* time
+
+We can write the same example again, this time using an interface to describe the requirement of having the label property that is a string:
+
+```
+interface LabeledValue {
+    label: string;
+}
+
+function printLabel(labeledObj: LabeledValue) {
+    console.log(labeledObj.label);
+}
+
+let myObj = {size: 10, label: "Size 10 Object"};
+printLabel(myObj);
+```
+
+The interface LabeledValue is a name we can now use to describe the requirement in the previous example. It still represents having a single property called label that is of type string. Notice we didn’t have to explicitly say that the object we pass to printLabel implements this interface like we might have to in other languages. Here, it’s only the shape that matters. If the object we pass to the function meets the requirements listed, then it’s allowed.
+
+It’s worth pointing out that the type checker does not require that these properties come in any sort of order, only that the properties the interface requires are present and have the required type.
 
 #### Classes
 
