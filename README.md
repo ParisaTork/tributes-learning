@@ -329,6 +329,10 @@ Make sure voices are heard during meetings.
 - Autonomy (esp. self-autonomy)
 - Track Record of Success
 - Locate teams in same or close timezones
+- Ability to use the latest technology
+- Results-driven attitude
+- Relevant background (i.e. work with prior clients, prior self-employment, entrepreneurial projects, etc.)
+- Flexibility & Humility
 
 #### Growing Pains without right tools/tech
 
@@ -419,6 +423,65 @@ Three Trust Pillars
 - Members who typically struggle with priorities and setting goals may require more frequent check-ins, where you may need to break down their goals into sub-goals.
 - By setting aside time as part of creating a community, you may find team check-ins can focus on specific agendas.
 - It is important to prioritize the emotional and personal needs of team members - so make yourself available for conversations more frequently.
+
+#### Hiring
+
+##### Craft a work description:
+An ideal job post has a few key components, but to make yours truly shine, it’s important to showcase your company, bring your underlying mission to the fore, and attract the right professionals. Beyond simply attracting talent, you want to help them quickly identify that your company is the kind they want to work for.
+- Include specifics about what the work will entail. The more detail you can add, the better
+- Provide more detail about your company—the culture, the vibe, what it is that you do and what you’re all about as a business
+- Specify the must-have requirements, such as specific expertise level and skills you’re looking for
+
+##### Cast a wide net:
+While engaging remote freelancers can often be a quicker and smoother process than traditional hiring, to find the perfect talent for your team, you might also want to take some initiative. Posting your job and hoping for the best may not be enough—search Upwork’s global talent pool for potential hires that might be in the market for this kind of work, then approach them directly to see if they might be interested.
+
+##### Evaluate prospects and respond quickly:
+When the proposals start rolling in, create a shortlist of your top proposals and reach out to them promptly. Having a detailed list of the top qualities you’re looking for will help during this process and make it easier to quickly identify your prime talent.
+
+##### Interview your shortlist:
+When it comes to interviewing remote team members, pay close attention to how your top candidates respond during the interview setup process. Because excellent communication skills are so vital to a successful remote team dynamic, it’s helpful to see how candidates respond when setting up a video interview. From there, try a phone or video chat, and prepare some interview questions to help guide the conversation.
+
+##### Create a solid foundation for your remote team:
+Think about the entire work relationship, from vetting to communicating to paying. It’s not enough just to assemble a team of great people—you’ll want to build your remote team with a plan and give them all the resources they need to be successful. Start by asking:
+
+- What types of projects or workflows will the team tackle?
+- How will the workflow look? How will you handle prioritization, collaboration, reviews, and approvals?
+- What is your plan for scalability—say when demand spikes or slows?
+- What resources will you put in place to reduce dependencies and help your remote team be self-sufficient?
+
+#### Onboarding Process
+- Their specific team will get them up to speed
+- New hire presentations
+- If hybrid, have employees come onsite and soak in culture
+- Give new employee a 'buddy'
+- Get feedback so onboarding improves
+
+#### Set your new remote team up for success.
+Your project is most likely to get off to a strong start if you’ve already organized the details and resources the team will need to hit the ground running. You’ll want to plan for and provide:
+
+- A regular team meeting: Once you make a new hire or finish assembling your remote team, you may want to facilitate a group meeting to get everyone acquainted so everyone knows who’s doing what. It also helps initiate collaboration, which is important when team members are scattered around the world.
+- Clear goals and expectations: Take the time to establish clear expectations and set goals for your remote team from the very beginning. Have this all clearly defined up-front to help avoid miscommunication and potential conflicts.
+- The right mix of collaboration and communication tools to keep operations on track: Find tools that align with your team’s work delivery system, whether it’s a content team editing drafts, engineers merging code, or marketers sharing calendars and analytics. Look into virtual whiteboards, document sharing like GoogleDocs, and project management software like JIRA, Basecamp or Asana.
+- An advancement path: While you may start your team off on some smaller assignments, creating pathways for future advancement can be a great way to build incentive.
+- Share meeting agenda for people to contribute too
+- Send meeting invitation to all stakeholders
+- Share out clear team role expectations and process documentation
+- Added links to appropriate collaboration and communication tools in the meeting invite
+- Set up separate 1:1 for individual team members
+- Set up buddy system
+
+#### Arguments in favour of a distributed team
+
+- Unlimited access to talent:
+When you can work with anyone from virtually anywhere, you suddenly have access to the best developers in the world, whether they are in Singapore or Los Angeles There are prestigious universities outside the U.S. that rival Stanford or MIT, and their graduates are often looking for opportunities beyond local job markets. Even within the U.S., there are many talented developers located far from major tech centers. By building a distributed team, you get access to the very best talent. Period.
+
+- Mutually beneficial work relationships:
+When a full-time team member leaves, that skill gap can bring critical projects to a grinding halt. With a mix of traditional and distributed talent, you can avoid this scenario altogether. Give people the opportunity to work on projects they care about and the flexibility to work when, where, and how they want, and most will call that a dream job. This is why distributed team members tend to form work relationships that stand the test of time. Compare that to a typical Silicon Valley start-up in which recruiters are constantly trying to poach your engineers.
+
+- Lower overall cost.
+As more and more businesses compete for local talent, engineers in the U.S. (and especially in the Bay Area) are commanding higher pay than similarly skilled international engineers. So for the same budget, you may be able to afford many times the engineering talent remotely than you would locally. Depending on your funding situation and your profitability goals, this may be a big decision factor. However, the axiom “you get what you pay for” applies here. Given the cost savings, we would advise that you work with only the best remote engineers, even if they are significantly more expensive than the average. You can afford the “10x engineers,” the “unicorns,” so take the opportunity!
+
+
 
 
 
