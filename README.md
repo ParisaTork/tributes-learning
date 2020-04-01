@@ -5,6 +5,8 @@
 - [ ] [React](https://reactjs.org/docs/getting-started.html) / [GraphQL](https://graphql.org/learn/)
   - [ ] [Docs - Intro to React](https://reactjs.org/tutorial/tutorial.html)
   - [ ] [Docs - Hooks at a Glance](https://reactjs.org/docs/hooks-overview.html)
+  - [ ] [Create React App Interactive Tutorial (Facebook)](https://create-react-app.dev/)
+  - [ ] [React Tutorial (Jad Joubran)](https://react-tutorial.app/?utm_source=learnjavascript.online)
   - [ ] [React (Maximilian Schwarzmüller)](https://learning.oreilly.com/videos/react-the/9781789132229)
   - [ ] [React for Beginners (Wes Bos)*](https://reactforbeginners.com/)
   - [ ] [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
