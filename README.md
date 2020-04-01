@@ -28,6 +28,7 @@
 - [ ] [TypeScript](https://www.typescriptlang.org/docs/handbook/release-notes/overview.html) 
   - [x] [TS in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - [notes](#ts5mins)
   - [ ] [TS (Exercism)](https://exercism.io/tracks/typescript)
+  - [ ] [Learn TypeScript 3 by Building Web Applications](https://learning.oreilly.com/library/view/learn-typescript-3/9781789615869/)
   - [ ] TS toy project
 
 - [x] Other
