@@ -8,6 +8,7 @@
   - [ ] [Create React App Interactive Tutorial (Facebook)](https://create-react-app.dev/)
   - [ ] [React Tutorial (Jad Joubran)](https://react-tutorial.app/?utm_source=learnjavascript.online)
   - [ ] [React (Maximilian Schwarzmüller)](https://learning.oreilly.com/videos/react-the/9781789132229)
+  - [ ] [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/)
   - [ ] [React for Beginners (Wes Bos)*](https://reactforbeginners.com/)
   - [ ] [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
   - [ ] [Advanced React and GraphQL (Wes Bos)*](https://advancedreact.com/)
@@ -34,6 +35,8 @@
 - [x] Other
   - [x] [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/deploy-react-app-cicd-amplify/) - [GitHub repo](https://github.com/ParisaTork/amplifyapp) + [URL](https://master.dq83h9g14lssn.amplifyapp.com/)
   - [x] [Managing Remote Teams with Upwork (Udacity)](https://classroom.udacity.com/courses/ud942) - [notes](#upwork)
+  - [ ] [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+  - [ ] [The OWASP Top 10 – A Technical Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
 
 (*) = For Wes Bos courses, buy through r/groupdeals
 
