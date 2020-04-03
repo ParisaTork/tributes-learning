@@ -9,7 +9,7 @@
   - [ ] [React Tutorial (Jad Joubran)](https://react-tutorial.app/?utm_source=learnjavascript.online)
   - [ ] [React (Maximilian Schwarzmüller)](https://learning.oreilly.com/videos/react-the/9781789132229)
   - [ ] [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/)
-  - [ ] [Any Reed Barger course/project](https://learning.oreilly.com/search/?query=Reed%20Barger&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=suggestion&sort=relevance&facet_json=true&page=1)
+  - [ ] [Any Reed Barger course/project](https://learning.oreilly.com/search/?query=Reed%20Barger&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=true&include_notebooks=true&is_academic_institution_account=false&source=suggestion&sort=relevance&facet_json=true&page=0)
   - [ ] [React for Beginners (Wes Bos)*](https://reactforbeginners.com/)
   - [ ] [Stephen Grider](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
   - [ ] [Advanced React and GraphQL (Wes Bos)*](https://advancedreact.com/)
