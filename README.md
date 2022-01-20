@@ -20,6 +20,7 @@
   - [ ] [Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102)
   - [ ] React toy project
   - [ ] GraphQL toy project
+  - [ ] [Netflix React Clone (Karl Hadwen)](https://youtu.be/x_EEwGe-a9o)
 
 - [ ] [Next.js](https://nextjs.org/learn/basics/getting-started) / [CSS-in-JS](https://cssinjs.org/?v=v10.1.1)
   - [ ] [Next.js + CSS-in-JS (Next.js docs)](https://nextjs.org/learn/basics/getting-started)
